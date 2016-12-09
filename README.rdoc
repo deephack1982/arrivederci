@@ -1,0 +1,7 @@
+== README
+
+Simple example implementation of a booking system for a travel operator.  Focussing on FIT operations with bookings for travel agents.  Will have re-confirmation system via email with confirmation links.
+
+
+* Ruby version - 2.3.3
+
