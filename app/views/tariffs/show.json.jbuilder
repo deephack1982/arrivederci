@@ -1,0 +1,1 @@
+json.partial! "tarriffs/tarriff", tarriff: @tarriff

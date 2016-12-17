@@ -1,0 +1,1 @@
+json.array! @tarriffs, partial: 'tarriffs/tarriff', as: :tarriff

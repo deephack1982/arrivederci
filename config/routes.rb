@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
+  resources :tariffs
+  resources :services
+  resources :branches
+  resources :suppliers
   resources :travellers
   resources :customers
   # The priority is based upon order of creation: first created -> highest priority.
